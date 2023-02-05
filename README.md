@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[ttps://github.com/pythonodamasths]
+[Ioannis Gkovas](https://github.com/pythonodamasths)
 - 👯 I’m looking to collaborate on data science projects
